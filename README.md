@@ -2,4 +2,5 @@ Food App is an online food-ordering platform similar to Zomato and Swiggy, desig
 
 Main Features: Restaurant and menu management, food search, cart, order placement, online payment, order tracking, and order history.
 
-Order Your Favorite Food at Your Doorstep!
+Order Your Favorite Food at Your Doorstep and save your valuable Time!
+
